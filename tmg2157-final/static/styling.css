@@ -1,0 +1,50 @@
+* {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+}
+
+body {
+    background-image: url(matrix_rain.jpg);
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+nav * {
+    border-style: outset;
+    margin: 10%;
+    text-decoration: none;
+}
+
+ul {
+    padding-top: 1%;
+    padding-bottom: 2%;
+    padding-right: 3%;
+    background-color: #e3a3a3;
+}
+
+li {
+    background-color: #baa9a9;
+}
+
+tr {
+    background-color: #d4cfc3;
+}
+
+.evenRows {
+    background-color: #b5b2aa;
+}
+
+h3 {
+    border-style: dashed;
+    width: 20%;
+}
+
+p {
+    background-color: hsl(215, 20%, 82%);
+    padding: 2%;
+}
