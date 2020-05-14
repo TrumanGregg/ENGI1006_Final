@@ -24,19 +24,19 @@ ul {
     padding-top: 1%;
     padding-bottom: 2%;
     padding-right: 3%;
-    background-color: #e3a3a3;
+    background-color: hsl(357, 31%, 22%);
 }
 
 li {
-    background-color: #baa9a9;
+    background-color: hsl(227, 6%, 27%);
 }
 
 tr {
-    background-color: #d4cfc3;
+    background-color: hsl(338, 31%, 32%);
 }
 
 .evenRows {
-    background-color: #b5b2aa;
+    background-color: hsl(283, 28%, 25%);
 }
 
 h3 {
@@ -45,6 +45,6 @@ h3 {
 }
 
 p {
-    background-color: hsl(215, 20%, 82%);
+    background-color: hsl(140, 15%, 27%);
     padding: 2%;
 }
